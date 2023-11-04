@@ -4,6 +4,7 @@
 
 ## 1. saourlabs 项目介绍
 
+### 1.1.进行中的项目
 - [wallet-chain-node](https://github.com/savour-labs/wallet-chain-node):一个对接各公链的一个节点 RPC 服务, 统一一套钱包接口服务，目前已经支持 BTC, ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, Cosmos 等 40 多条主流链。
 - [key-locker](https://github.com/savour-labs/key-locker): 一个链上密钥管理工具，可以用于社交恢复钱包和 MPC 钱包的去中心化密钥管理。
 - [skyeye](https://github.com/savour-labs/skyeye): 数字货币行情聚合器，目前已经支持所有主流的中心化交易所，去中心化交易所也在支持中
@@ -24,6 +25,9 @@
 - [shadow-x](https://github.com/savour-labs/shadow-x): layer3 隐私社交协议项目，后续会改名为 protect-x
 - [protect-x-sdk](https://github.com/savour-labs/protect-x-sdk): 马上就会启动开发的 layer3 隐私社交协议 sdk, 供第三方接入时使用
 
+### 1.2.计划开发的项目
+- [protect-x-services](https://github.com/savour-labs/protect-x-services) layer3 质押合约链下服务项目，为了吸引更多开发者加入，本项目使用 rust 开发
+- [ethereum-event-watcher](https://github.com/savour-labs/ethereum-event-watcher) EVM 链的合约事件索引基础设施，提供给 protect-x-services 使用，为了吸引更多开发者加入，本项目使用 rust 开发
   
 ## 2. 开发指南
 
