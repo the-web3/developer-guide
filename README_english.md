@@ -4,7 +4,7 @@ This guide is used to guide developers who are new to saourlabs, so that develop
 
 
 ## 1. saourlabs Project introduce
-
+### 1.1 Projects under development
 - [wallet-chain-node](https://github.com/savour-labs/wallet-chain-node): A node RPC service that connects to each public chain, and a unified set of wallet interface services, currently supported More than 40 mainstream chains including BTC, ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, Cosmos, etc.
 - [key-locker](https://github.com/savour-labs/key-locker): An on-chain key management tool that can be used for decentralized key management of social recovery wallets and MPC wallets.
 - [skyeye](https://github.com/savour-labs/skyeye): Digital currency market aggregator, currently supports all mainstream centralized exchanges, and decentralized exchanges are also being supported.
@@ -24,6 +24,10 @@ This guide is used to guide developers who are new to saourlabs, so that develop
 - [savour-offical](https://github.com/savour-labs/savour-offical): savourlabs official website, currently suspended.
 - [shadow-x](https://github.com/savour-labs/shadow-x): layer3 privacy social protocol project, which will be renamed protect-x in the future.
 - [protect-x-sdk](https://github.com/savour-labs/protect-x-sdk): The developed layer3 privacy social protocol sdk will be launched soon for third-party access.
+
+### 1.2. Projects planned to be developed
+- [protect-x-services](https://github.com/savour-labs/protect-x-services) layer3 pledge contract off-chain service project. In order to attract more developers to join, this project is developed using rust
+- [ethereum-event-watcher](https://github.com/savour-labs/ethereum-event-watcher) The contract event indexing infrastructure of the EVM chain is provided for use by protect-x-services in order to attract more developers If you want to join, this project is developed using rust
 
 ## 2. develop guide
 
