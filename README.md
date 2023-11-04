@@ -25,6 +25,14 @@
 - [protect-x-sdk](https://github.com/savour-labs/protect-x-sdk): 马上就会启动开发的 layer3 隐私社交协议 sdk, 供第三方接入时使用
 
   
+## 2. 开发指南
+
+每个项目下面会有对应的 issure, issure 如果被标记为 task 的就是需要开发的任务。
+
+
+## 2. 如何贡献
+
+
 
 
 
