@@ -5,7 +5,25 @@ This guide is used to guide developers who are new to saourlabs, so that develop
 
 ## 1. saourlabs Project introduce
 
-
+- [wallet-chain-node](https://github.com/savour-labs/wallet-chain-node): A node RPC service that connects to each public chain, and a unified set of wallet interface services, currently supported More than 40 mainstream chains including BTC, ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, Cosmos, etc.
+- [key-locker](https://github.com/savour-labs/key-locker): An on-chain key management tool that can be used for decentralized key management of social recovery wallets and MPC wallets.
+- [skyeye](https://github.com/savour-labs/skyeye): Digital currency market aggregator, currently supports all mainstream centralized exchanges, and decentralized exchanges are also being supported.
+- [fieryeyes](https://github.com/savour-labs/fieryeyes): NFT aggregator project, development has been temporarily suspended
+- [hailstone](https://github.com/savour-labs/hailstone): Business mid-end project, docking various back-end rpc services, such as [wallet-chain-node](https://github.com/savour -labs/wallet-chain-node), [skyeye](https://github.com/savour-labs/skyeye) and other projects
+- [protect-x-contracts](https://github.com/savour-labs/protect-x-contracts): Economic model of layer3 privacy social protocol chain, reverse re-pledge protocol contract
+- [wallet-sdk](https://github.com/savour-labs/wallet-sdk): HD wallet SDK, mnemonic phrase generation, offline mnemonic phrase export private key generation address, transaction offline signature, currently supports BTC, There are more than 40 mainstream chains such as ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, and Cosmos.
+- [shadow-x-app](https://github.com/savour-labs/parapack): A private social wallet developed by RN. It has been connected to 7 mainstream chains and integrated with DAPP browser, flash exchange and market prices. and other functions.
+- [bitcoin-sdk-lite](https://github.com/savour-labs/bitcoin-sdk-lite): Lightweight BTC wallet SDK
+- [savour-treasure](https://github.com/savour-labs/savour-treasure): save community task management plus treasury contract
+- [savour-proto](https://github.com/savour-labs/savour-proto): protobuf interface definition for all projects
+- [savour-secret](https://github.com/savour-labs/savour-secret): Threshold shared secret algorithm library implemented by nodeJS
+- [universe-uni](https://github.com/savour-labs/universe-uni): A privacy social wallet developed by uni-app. Development has been suspended for now.
+- [savour-prototype](https://github.com/savour-labs/savour-prototype): Product prototype design draft
+- [savnode](https://github.com/savour-labs/savnode): layer3 Mpc node, development is currently suspended and will be restarted after the development of layer3 privacy social protocol
+- [distribute](https://github.com/savour-labs/distribute): Distribution platform for IOS app release (the one with enterprise signature mode, which cannot be put on the app store. This distribution can be used after enterprise signature or super signature is completed) platform).
+- [savour-offical](https://github.com/savour-labs/savour-offical): savourlabs official website, currently suspended.
+- [shadow-x](https://github.com/savour-labs/shadow-x): layer3 privacy social protocol project, which will be renamed protect-x in the future.
+- [protect-x-sdk](https://github.com/savour-labs/protect-x-sdk): The developed layer3 privacy social protocol sdk will be launched soon for third-party access.
 
 ## 2. develop guide
 
