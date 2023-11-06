@@ -2,7 +2,7 @@
 
 This guide is used to guide developers who are new to saourlabs, so that developers can participate in the development of corresponding projects according to their own interests. It mainly includes project introduction and how to participate in project development.
 
-
+ƒ
 ## 1. saourlabs Project introduce
 ### 1.1 Projects under development
 - [wallet-chain-node](https://github.com/savour-labs/wallet-chain-node): A node RPC service that connects to each public chain, and a unified set of wallet interface services, currently supported More than 40 mainstream chains including BTC, ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, Cosmos, etc.
@@ -10,7 +10,7 @@ This guide is used to guide developers who are new to saourlabs, so that develop
 - [skyeye](https://github.com/savour-labs/skyeye): Digital currency market aggregator, currently supports all mainstream centralized exchanges, and decentralized exchanges are also being supported.
 - [fieryeyes](https://github.com/savour-labs/fieryeyes): NFT aggregator project, development has been temporarily suspended
 - [hailstone](https://github.com/savour-labs/hailstone): Business mid-end project, docking various back-end rpc services, such as [wallet-chain-node](https://github.com/savour -labs/wallet-chain-node), [skyeye](https://github.com/savour-labs/skyeye) and other projects
-- [protect-x-contracts](https://github.com/savour-labs/protect-x-contracts): Economic model of layer3 privacy social protocol chain, reverse re-pledge protocol contract
+- [protect-x-contracts](https://github.com/savour-labs/protect-x-contracts): Economic model of layer3 privacy social protocol chain, reverse re-staking protocol contract
 - [wallet-sdk](https://github.com/savour-labs/wallet-sdk): HD wallet SDK, mnemonic phrase generation, offline mnemonic phrase export private key generation address, transaction offline signature, currently supports BTC, There are more than 40 mainstream chains such as ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, and Cosmos.
 - [shadow-x-app](https://github.com/savour-labs/parapack): A private social wallet developed by RN. It has been connected to 7 mainstream chains and integrated with DAPP browser, flash exchange and market prices. and other functions.
 - [bitcoin-sdk-lite](https://github.com/savour-labs/bitcoin-sdk-lite): Lightweight BTC wallet SDK
