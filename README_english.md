@@ -2,7 +2,6 @@
 
 This guide is used to guide developers who are new to saourlabs, so that developers can participate in the development of corresponding projects according to their own interests. It mainly includes project introduction and how to participate in project development.
 
-ƒ
 ## 1. saourlabs Project introduce
 ### 1.1 Projects under development
 - [wallet-chain-node](https://github.com/savour-labs/wallet-chain-node): A node RPC service that connects to each public chain, and a unified set of wallet interface services, currently supported More than 40 mainstream chains including BTC, ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, Cosmos, etc.
