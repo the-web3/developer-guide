@@ -27,7 +27,7 @@
 
 ### 1.2.计划开发的项目
 - [protect-x-services](https://github.com/savour-labs/protect-x-services) layer3 质押合约链下服务项目，为了吸引更多开发者加入，本项目使用 rust 开发
-- [ethereum-event-watcher](https://github.com/savour-labs/ethereum-event-watcher) EVM 链的合约事件索引基础设施，提供给 protect-x-services 使用，为了吸引更多开发者加入，本项目使用 rust 开发
+- [ethereum-event-watcher](https://github.com/evm-layer2/ethereum-event-watcher) EVM 链的合约事件索引基础设施，提供给 protect-x-services 使用，为了吸引更多开发者加入，本项目使用 rust 开发
   
 ## 2. 开发指南
 
