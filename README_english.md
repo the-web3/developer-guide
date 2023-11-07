@@ -26,7 +26,7 @@ This guide is used to guide developers who are new to saourlabs, so that develop
 
 ### 1.2. Projects planned to be developed
 - [protect-x-services](https://github.com/savour-labs/protect-x-services) layer3 pledge contract off-chain service project. In order to attract more developers to join, this project is developed using rust
-- [ethereum-event-watcher](https://github.com/savour-labs/ethereum-event-watcher) The contract event indexing infrastructure of the EVM chain is provided for use by protect-x-services in order to attract more developers If you want to join, this project is developed using rust
+- [ethereum-event-watcher](https://github.com/evm-layer2/ethereum-event-watcher) The contract event indexing infrastructure of the EVM chain is provided for use by protect-x-services in order to attract more developers If you want to join, this project is developed using rust
 
 ## 2. develop guide
 
